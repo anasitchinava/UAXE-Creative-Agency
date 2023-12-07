@@ -369,7 +369,166 @@ ul {
     display: flex;
     align-items: center;
 }
-
+.mt-180 {
+    margin-top: 180px;
+    justify-content: center;
+    display: flex;
+}
+.bg-container {
+    position: relative;
+}
+.bg-image {
+    width: 1400px;
+    height: 827px;
+    flex-shrink: 0;
+}
+.about {
+    top: 84px; 
+    color: #000;
+    text-align: center;
+    font-family: TT Firs Neue;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.about-txt {
+    width: 1144px;
+    top: 157px; 
+    color: #000;
+    font-family: TT Firs Neue;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 265;
+    line-height: 92px; /* 143.75% */
+}
+.creative {
+    color: #000;
+    font-family: TT Firs Neue;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 92px;
+}
+.l-88 {
+    left: 88px;
+}
+.about-image {
+    top: 504px;
+    width: 600px;
+    height: 600px;
+    flex-shrink: 0;
+    border: 1px solid #C4C4C4;
+}
+.about-num {
+    top: 475px;
+    left: 760px;
+}
+.about-num-txt {
+    color: #000;
+    font-family: TT Firs Neue;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 92px; /* 143.75% */
+}
+.about-num-2 {
+    top: 636px;
+    left: 760px;
+}
+.about-txt-1 {
+    left: 760px;
+    top: 570px;
+}
+.about-txt-2 {
+    left: 760px;
+    top: 730px;
+}
+.about-small-txt {
+    color: #000;
+    text-align: center;
+    font-family: TT Firs Neue;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.about-us {
+    margin-left: 920px;
+    margin-top: 25px;
+}
+.design {
+    width: 500px;
+    font-family: TT Firs Neue;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 265;
+    line-height: 92px; /* 143.75% */
+}
+.ab-arr {
+    margin-left: 300px;
+    margin-top: 157px;
+}
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.arr-center {
+    margin-top: 150px;
+}
+.call-image {
+    width: 279px; 
+    height: 279px;
+}
+.slogan {
+    color: #000;
+    text-align: center;
+    font-family: TT Firs Neue;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 92px; /* 143.75% */
+}
+.gradient-text {
+    background: linear-gradient(to right, #c66bff, #98473b);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.pd-0 {
+    padding: 0;
+    display: flex;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+.email {
+    color: #000;
+    text-align: center;
+    font-family: TT Firs Neue;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.email-arrow {
+    width: 21px;
+    height: 21px;
+    flex-shrink: 0;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.mt-98 {
+    margin-top: 98px;
+}
+.ft {
+    display: inline-block;
+    margin-right: 350px;
+}
+.ft:last-child {
+    margin-right: 0;
+}
 
 /* Specific features */
 .fragment {
