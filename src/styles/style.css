@@ -419,6 +419,7 @@ ul {
     height: 600px;
     flex-shrink: 0;
     border: 1px solid #C4C4C4;
+    object-fit: cover;
 }
 .about-num {
     top: 475px;
